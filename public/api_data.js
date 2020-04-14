@@ -192,7 +192,7 @@ define({ "api": [
     "name": "GetV1JsonUserUserhash",
     "sampleRequest": [
       {
-        "url": "https://algo-user-frontend.herokuapp.com//v1/json/user/:userHash"
+        "url": "https://algo-user-backend.herokuapp.com//v1/json/user/:userHash"
       }
     ]
   },
@@ -287,7 +287,7 @@ define({ "api": [
     "name": "PostV1JsonUser",
     "sampleRequest": [
       {
-        "url": "https://algo-user-frontend.herokuapp.com//v1/json/user/"
+        "url": "https://algo-user-backend.herokuapp.com//v1/json/user/"
       }
     ]
   }
