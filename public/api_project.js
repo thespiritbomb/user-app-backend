@@ -3,8 +3,8 @@ define({
   "version": "1.0.0",
   "description": "API for adding and listing user to mongoDB databse",
   "title": "User Form Database API",
-  "url": "https://user-form-backend.herokuapp.com",
-  "sampleUrl": "https://user-form-backend.herokuapp.com",
+  "url": "https://algo-user-frontend.herokuapp.com/",
+  "sampleUrl": "https://algo-user-frontend.herokuapp.com/",
   "template": {
     "forceLanguage": "en"
   },
@@ -12,7 +12,7 @@ define({
   "apidoc": "0.3.0",
   "generator": {
     "name": "apidoc",
-    "time": "2020-04-12T13:39:08.279Z",
+    "time": "2020-04-14T16:32:19.293Z",
     "url": "http://apidocjs.com",
     "version": "0.20.1"
   }
