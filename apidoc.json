@@ -3,8 +3,8 @@
 	"version": "1.0.0",
 	"description": "API for adding and listing user to mongoDB databse",
 	"title": "User Form Database API",
-	"url": "https://algo-user-backend.herokuapp.com/",
-	"sampleUrl": "https://algo-user-backend.herokuapp.com/",
+	"url": "https://algo-user-backend.herokuapp.com",
+	"sampleUrl": "https://algo-user-backend.herokuapp.com",
 	"template": {
 		"forceLanguage": "en"
 	}
